@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProfileDesign" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryDark">#323571</item>
+    </style>
+
+    <style name="Theme.ProfileDesign" parent="Base.Theme.ProfileDesign" />
+</resources>
